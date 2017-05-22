@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * Description of SessionManager
+ *
+ * @author Damian Stępniak
+ */
 class dbConnect {
 
     private $db;
