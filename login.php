@@ -1,4 +1,9 @@
 <?php
+/**
+ * Description of SessionManager
+ *
+ * @author Damian Stępniak
+ */
 
 include_once './dbManage.php';
 include_once './SessionManager.php';
