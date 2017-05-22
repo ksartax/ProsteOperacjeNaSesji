@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * Description of SessionManager
+ *
+ * @author Damian Stępniak
+ */
 include_once './dbConnect.php';
 
 class dbManage {
